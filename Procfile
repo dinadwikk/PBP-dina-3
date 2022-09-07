@@ -1,1 +1,1 @@
-web: gunicorn PBP-dina<3.wsgi --log-file -
+web: gunicorn Lab0_project.wsgi --log-file -
